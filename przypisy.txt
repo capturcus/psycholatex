@@ -1,0 +1,28 @@
+
+%Nelson, E., Bird, L., Deak, T., Vaningan, M. and Panksepp, J., Social behavior in the young, vasopressin deficient Brattleboro rat. Soc. Neurosci. Abstr., 1995, 20, 366.
+
+%Winslow, J.T. and Insel, T.R., Effects of central vasopressin adminis-tration to infant rats. Eur. J. Pharmacol., 1993, 233, 101–107.
+
+%Uvnas-Moberg, K., Bruzelius, G., Alster, P. and Lundeberg, T., The antinociceptive effect of non-noxious sensory stimulation is mediated partly through oxytocinergic mechanisms. Acta Physiol. Scand., 1993, 149, 199–204.
+
+%Noonan, L.R., Caldwell, J.D., Li, L., Walker, C.H., Pedersen, C.A. and Mason, G.A., Neonatal stress transiently alters the development of hippocampal oxytocin receptors. Dev. Brain Res., 1994, 80, 115–120.
+
+%Nelson, E. and Panksepp, J., Oxytocin mediates acquisition of maternally associated odor preference in preweanling rat pups. Behav. Neurosci., 1996, 110, 1–10.
+
+% Insel, T.R. and Winslow, J.T., Central administration of oxytocin modulates the infant rat’s response to social isolation. Eur. J. Pharmacol., 1991, 203, 149–152.
+
+%Panksepp, J., Siviy, S.M., Normansell, L.A., Brain opioids and social emotion, in: M. Reite, T. Fields (Eds.), The Psychobiology of Attachment and Separation, Academic, New York, 1985, pp. 3–49.
+
+%Panksepp, J. and Bishop, P., An autoradiographic map of (3H) diprenorphine binding in rat brain: Effects of social interaction. Brain Res. Bull., 1981, 7, 405–410.
+
+%Siviy, S.M. and Panksepp, J., Sensory modulation of juvenile play in rats. Dev. Psychobiol., 1987, 20, 39–55.
+
+%Smotherman, W.P. and Robinson, S.R., Kappa opioid mediation of fetal responses to milk. Behav. Neurosci., 1992, 106, 396–407.
+
+%Banks, W.A. and Kastin, A.J., Permeability of the blood-brain barrier to neuropeptides: The case for penetration. Psychoneuro-endocrinology, 1985, 10, 385–399.
+
+%Carden, S.E., Barr, G.A. and Hofer, M.A., Differential effects of specific opioid receptor agonists on rat up isolation calls. Behav. Brain Res., 1991, 62, 17–22.
+
+%Panksepp, J., Herman, B.H., Conner, R., Bishop, P. and Scott, J.P., The biology of social attachments: opiates alleviate separation distress. Biol. Psychiat., 1978, 13, 607–613.
+
+%Panksepp, J., Herman, B.H., Vilberg, T., Bishop, P. and DeEskinazi, F.G., Endogenous opioids and social behavior. Neurosci. Biobehav. Rev., 1980, 4, 473–487.
