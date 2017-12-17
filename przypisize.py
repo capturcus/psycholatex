@@ -25,7 +25,7 @@ def przypisize(przyp):
     return "\\apaartykul{" + "}{".join([_authors_, _year_, _title_, _journal_, _issue_, _pages_])+"}"
     
 
-f = open("przypisy.txt")
+f = open("przypisy0.txt")
 for line in f:
     if line[:-1] != "":
         print przypisize(line[1:-1])
