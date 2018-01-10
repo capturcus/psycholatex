@@ -62,12 +62,13 @@
     {\Large \textbf{\@title} \par}%
     \vskip 2em%
 \normalsize
-Praca na Umiejętności akademickie
+Praca na \przedmiot
 
 na kierunku Psychologia
 \vskip 6em
 \flushright
 \setlength{\parskip}{.5em}
+\ifx true false
 \vspace{\fill}
 Praca wykonana pod kierunkiem
 
@@ -75,7 +76,9 @@ Praca wykonana pod kierunkiem
 
 Wydział Psychologii Uniwersytetu Warszawskiego
 
-Katedra Psychologii Różnic indywidualnych
+\katedra
+
+\fi
 
 \centering
 \vspace{\fill}
