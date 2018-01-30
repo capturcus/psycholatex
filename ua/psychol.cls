@@ -88,5 +88,7 @@ Warszawa dn. \@date
 \doublespacing
 \tocloftpagestyle{empty}
 
-
-
+\AtBeginDocument{
+    \raggedright
+    \setlength\parindent{1cm} %tu wstaw wielkość akapitu, nie pamiętam ile było
+}
