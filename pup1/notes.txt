@@ -1,3 +1,9 @@
+// burt
+kartki na plecach / pierwsze wrażenie
+konsensus grupowy
+poniżej macie parę cech pewnej kobiety
+grupowe organizowanie eventu
+
 // meta o pracy w grupie (?)
 wypisywanie dobrych/złych cech grup -> techniki dobrego funkcjonowania grupy -> dyskusja
 wypisywanie w podgrupach celów grupy -> omawianie sensowności -> zapisać cele (?)
@@ -58,3 +64,58 @@ wypełnij kartę "wyobraź sobie"
 wypełnij kartę "oceń samego siebie"
 herb: coś w czym dobry, coś w czym chce być lepszy, wartość naszą, wartość rodziny, co byśmy wybrali jakby wszystko wychodziło, w co
  	wierzymy i w co wszyscy by uwierzyli, 4 słowa które chcemy usłyszeć o sobie
+papierowa torba: na zewnątrz słowa wycięte z czasopism opisujące osobowość zewnętrzną, w środku wewnętrzną
+filiżanki: metafora filiżanki jako zawierające poczucie własnej wartości -> dyskusja na temat tekstu i opisanych dynamik
+	-> dajemy ludziom filiżanki -> ludzie napełniają swoje filiżanki nawzajem
+linia życia: narodziny ----- dzisiaj ------ śmierć -> wypisujemy osiągnięcia po lewej od dzisiaj a po prawej cele -> omówienie w parach
+ustalanie celów: metodologia celów SMART -> omawianie w 4-6 os zespołach
+
+// decision making
+linia: po jednej stronie ZGADZAM SIĘ po drugiej NIE ZGADZAM SIĘ, odczytujemy zdania, ludzie się ustawiają, pytamy czemu takimi
+karty "etapy podejmowania decyzji" -> karty "tabela rozwiązań" -> burza mózgów problemów -> w parach wypełniają tabelę dla jednego -> omówienie
+opowiadanie o Zbyszku -> zaznaczamy decyzje -> w parach do jednej z nich podajemy jak najwięcej alternatyw -> omówienie
+karta "kto ma na nas wpływ" -> w parach omówienie
+
+// communication
+głuchy telefon, 12-20 słów, 6-8 osób
+rysunek: osoba dostaje rysunek i ma go opisać grupie, grupa rysuje 1. może prosić o powtórzenie ale nie o wyjaśnienie 2. może prosić o wyjaśnienie też
+	-> porównujemy rysunki grupy z oryginalnym
+pary -> przez 5 min a opowiada b o swoim życiu -> zamiana -> pary grupują się w 6-12 os zespoły -> wszyscy przedstawiają partnera
+grupa tworzy listę pożądanych i niepożądanych zachowań podczas słuchania -> 3 os zespoły w tym 1 obserwator -> gadają -> zamiana ról -> omówienie
+parafraza: parafrazujemy kilka zdań -> wypełniają "parafrazowanie" -> odczytują przykłady -> zespoły 6-8 os -> x wypowiada zdanie, y parafrazuje x i dodaje własnę opinię, 
+	z parafrazuje poprzednich (?) i dodaje swoje itd
+pary -> a opisuje b rysunek, a (!) może zadawać pytania -> omówienie
+ciuciubabka: prowadzenie osoby tylko mówieniem bez dotykania
+labirynt na kartce długopisem, prowadzenie tylko mówieniem bez dotykania
+3 os zespoły, jeden obserwator -> obserwatorzy dostają karty "obserwacja niewerbalna", nie pokazują ich reszcie -> pary dyskutują 10 min, obserwatorzy robią notatki
+	-> mówimy że tak naprawdę chodziło o komunikację niewerbalną -> obserwatorzy relacjonują
+rozmowa z fizycznymi ograniczeniami: nie mogą się ruszać, ręce za plecami, kamienny wyraz twarzy itp
+kalambury
+głuchy telefon ze scenkami
+mrugający morderca
+budowanie wieży ze słomek bez komunikacji werbalnej w 4-6os zespołach, w każdym zespole jeden obserwator
+
+// communication barriers
+3os -> dwie gadają, nie dopuszczają trzeciej -> w końcu dopuszczamy trzecią osobę
+"podstawowe bariery w komunikacji" -> parę z tego na tablicy -> pary ilustrują scenkowo
+inna karta, jw
+4-6 os zespoły, jeden obserwator w każdym -> obserwatorzy wychodzą -> ustalamy temat, zamieniamy kluczowe słowa na jakieś inne -> włączamy obserwatorów do rozmów
+karta "terminologia komputerowa"
+komunikaty "ja" (jest karta z tym)
+
+// assertiveness (order relevant)
+zamykają oczy, opowiadamy historie -> jak zareagowaliby w tej sytuacji
+każdy przywiązuje balon do prawej kostki -> pęknąć balon innych -> omówienie
+kwestionariusz asertywności -> porównują odpowiedzi w zespołach 4-6os
+"rozpoznajemy zachowania asertywne" -> omówienie
+pary -> ustalamy sytuację -> siedem razy odgrywamy scenkę z innym czasownikiem "prosić", "błagać", "nalegać" itp -> omówienie
+wyliczamy swoje prawa -> "twoje prawa asertywne" porównanie z tablicą
+podają przykłady gdzie byli niezadowoleni ze swojego zachowania -> karty "owps" -> analiza owps grupowo -> analiza owps indywidualnie -> w parach
+a prosi b o przysługę, b odpowiada a używając tego samego tonu i donośności głosu
+ludzie listują kiedy używanie asertywności jest niewłaściwe ->
+	karty "kiedy używać umiejętności asertywnych" -> sortowanie scenariuszy po trudności -> 3os zespoły odgrywają scenariusze
+wyjaśnienie odtrącenia -> sposoby na odtrącenie -> kilka przykładów -> odgrywanie przykładów w parach
+przykłady gdzie ludzie nie byli asertywni -> wybór jednej -> pary: analiza owps, przygotowanie scenki -> pary scenkują przed całą grupą
+	-> więcej analizy owps używając scenariuszy z kart -> niektóre pary scenkują przed wszystkimi
+
+// stress management
